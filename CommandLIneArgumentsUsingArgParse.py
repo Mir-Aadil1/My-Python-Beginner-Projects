@@ -16,6 +16,7 @@ parser.add_argument('-q', '--option3', required=False)
 parser.add_argument('-v', '--verbose', action='store_true')
 parser.add_argument('-f', '--flag1', help='set flag1', required=True)
 parser.add_argument('files', nargs='*')  # Postional argumet
+parser.add_argument('--foo', metavar='YYY')
 
 args = parser.parse_args()
 
