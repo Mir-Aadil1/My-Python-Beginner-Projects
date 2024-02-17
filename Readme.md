@@ -14,7 +14,7 @@ This repository contains various beginner Python projects.
 
 5. **CatCommand** : Replica of Simple Cat Command
 
-6. **Grep** : grep wiht recursive 
+6. **Grep** : grep with recursive 
 
 ## Usage
 
