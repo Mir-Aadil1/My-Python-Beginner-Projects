@@ -12,7 +12,7 @@ class DLLNODE:
         return self.data 
     
     def __repr__(self):
-        return "SLLNode Object: data={}".format(self.data)
+        return "DLLNode Object: data={}".format(self.data)
 
     def set_data(self, new_data):
         """Replace the existing value of the self.data attribute with new_data parameters"""
@@ -83,8 +83,13 @@ class DLL:
 
         return False 
 
-    def add_front(self, data):
-        pass 
+    def add_front(self, new_data):
+        """Add a Node whose data is the new_data argument to the front of the list"""
+        temp = DLLNODE(new_data)
+        temp.set_next(self.head)
+        if self.head is not None:
+            self.head.set_previous(temp)
+        self.head = temp 
 
     def remove(self, data):
         pass 
