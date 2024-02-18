@@ -92,4 +92,27 @@ class DLL:
         self.head = temp 
 
     def remove(self, data):
-        pass 
+        """Removes the first occurence of a Node that contains the data argument as its self.data attribute. Reuturns nothing
+        The time complexity if O(n)
+
+        """
+        if self.head is None:
+            return "Linked List is empty , No Nodes to remove" 
+        
+        current = self.head 
+
+        found = False 
+        while not found:
+            if current.get_data() == data:
+                found = True 
+            else:
+                if current.get_next() is None:
+                    return "A Node with that dataa value is not present"
+                else:
+                    current = current.get_next()
+        
+        if current.previous is None:
+            self.head = current.get_next()
+        else:
+            current.previous.set_next(current.get_next())
+            current.next.set_previous(current.get_previous)
