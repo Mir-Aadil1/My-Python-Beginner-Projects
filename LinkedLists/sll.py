@@ -44,10 +44,28 @@ class SLL:
         return self.head is None  # self.head == None 
 
     def add_front(self, new_data):
-        pass 
+        """Add a Node whose data is the new_data argument to the front of the list"""
+        temp = SLLNode(new_data)
+        temp.set_next(self.head)
+        self.head = temp 
 
     def size(self):
-        pass 
+        """ Traversse the Linked List and returns an integer value representing the number of nodes in the Linked List
+        
+        The time complexity is O(n) because every Node in the Linked List must be visited in order to calculate the size of the Linked List.
+        """
+        size = 0
+        if self.head is None:
+            return size 
+
+        current = self.head 
+
+        while current is not None: # while there are still Nodes left to count 
+            size += 1
+            current = current.get_next()
+
+        return size
+
 
     def search(self, data):
         pass 
