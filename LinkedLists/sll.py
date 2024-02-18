@@ -89,7 +89,32 @@ class SLL:
         return False 
 
     def remove(self, data):
-        pass 
+        """Removes the first occurence of a Node that contains the data argument as its self.data variable. Returns nothing
+         The time complexity is o(n) because in the worst case we have to visit every Node before we find the one to Remove
+         """
+        # Edge Case 1 : Empty Linked List 
+        # Edge Case 2 : Target Data Not Found
+        # Case 3 : if the Node to Remove is the First Node  (self.head = current.get_next())
+        # Case 4 : Removing Nodes Elsewhere (previous.set_next(current.get_next))
 
+        if self.head is None:
+            return "The linked list is empty , No Nodes to remove"
+        current = self.head 
+        previous = None 
+        found = False 
+        while not found:
+            if current.get_data() == data:
+                found = True 
+            else:
+                if current.get_next() == None:
+                    return "A Node with that data value is not present"
+                else:
+                    previous = current
+                    current = current.get_next()
+        if previous is None:
+            self.head = current.get_next()
+
+        else:
+            previous.set_next(current.get_next())
 
 
