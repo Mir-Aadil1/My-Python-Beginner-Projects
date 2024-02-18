@@ -33,3 +33,58 @@ class DLLNODE:
     def set_next(self, new_next):
         """Replace the existing value of the self.next attribute with new_next parameters"""
         self.next = new_next
+
+
+class DLL:
+    def __init__(self):
+        self.head = None 
+
+    def __repr__(self):
+        return "<DLL Object: head={}>".format(self.head)
+    
+    def is_empty(self):
+        return self.head is None
+    
+    def size(self):
+        """ Traversse the Linked List and returns an integer value representing the number of nodes in the Linked List
+        
+        The time complexity is O(n) because every Node in the Linked List must be visited in order to calculate the size of the Linked List.
+        """
+        size = 0
+        if self.head is None:
+            return size 
+
+        current = self.head 
+
+        while current is not None: # while there are still Nodes left to count 
+            size += 1
+            current = current.get_next()
+
+        return size
+
+    def search(self, data):
+        """ Traverses teh Linked List and return True if the data searched for is present in one of the Nodes. Otherwise, it returns Fasle 
+        
+        The time complexity is O(n) becuase in the worst case we have to go through every node to either find or not find it .
+        
+        """
+        if self.head is None:
+            return "Linked List is empty , No Nodes to search."
+
+        current = self.head 
+
+        while current is not None:
+            # The Node's data matches what we're looking for
+            if current.get_data() == data:
+                return True
+            else:
+                current = current.get_next()
+            # The Node's  data doesn't match
+
+        return False 
+
+    def add_front(self, data):
+        pass 
+
+    def remove(self, data):
+        pass 
