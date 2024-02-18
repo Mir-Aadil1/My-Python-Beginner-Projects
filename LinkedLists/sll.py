@@ -40,7 +40,7 @@ class SLL:
     
 
     def is_empty(self):
-        """Returns True if the Linked List is empty otherwise , returns False"""
+        """Returns True if the Linked List is empty otherwise,returns False"""
         return self.head is None  # self.head == None 
 
     def add_front(self, new_data):
