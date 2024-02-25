@@ -1,0 +1,1802 @@
+[
+  {
+    "name": "a2ps",
+    "desc": "Any-to-PostScript filter",
+    "analytics": {
+      "30d": 61,
+      "90d": 172,
+      "365d": 1412
+    }
+  },
+  {
+    "name": "a52dec",
+    "desc": "Library for decoding ATSC A/52 streams (AKA 'AC-3')",
+    "analytics": {
+      "30d": 19,
+      "90d": 61,
+      "365d": 305
+    }
+  },
+  {
+    "name": "aacgain",
+    "desc": "AAC-supporting version of mp3gain",
+    "analytics": {
+      "30d": 0,
+      "90d": 1,
+      "365d": 18
+    }
+  },
+  {
+    "name": "aalib",
+    "desc": "Portable ASCII art graphics library",
+    "analytics": {
+      "30d": 54,
+      "90d": 139,
+      "365d": 504
+    }
+  },
+  {
+    "name": "aamath",
+    "desc": "Renders mathematical expressions as ASCII art",
+    "analytics": {
+      "30d": 12,
+      "90d": 33,
+      "365d": 107
+    }
+  },
+  {
+    "name": "aarch64-elf-binutils",
+    "desc": "GNU Binutils for aarch64-elf cross development",
+    "analytics": {
+      "30d": 140,
+      "90d": 351,
+      "365d": 717
+    }
+  },
+  {
+    "name": "aarch64-elf-gcc",
+    "desc": "GNU compiler collection for aarch64-elf",
+    "analytics": {
+      "30d": 150,
+      "90d": 670,
+      "365d": 2183
+    }
+  },
+  {
+    "name": "aarch64-elf-gdb",
+    "desc": "GNU debugger for aarch64-elf cross development",
+    "analytics": {
+      "30d": 134,
+      "90d": 466,
+      "365d": 999
+    }
+  },
+  {
+    "name": "aardvark_shell_utils",
+    "desc": "Utilities to aid shell scripts or command-line users",
+    "analytics": {
+      "30d": 0,
+      "90d": 6,
+      "365d": 57
+    }
+  },
+  {
+    "name": "abcde",
+    "desc": "Better CD Encoder",
+    "analytics": {
+      "30d": 102,
+      "90d": 296,
+      "365d": 816
+    }
+  },
+  {
+    "name": "abcl",
+    "desc": "Armed Bear Common Lisp: a full implementation of Common Lisp",
+    "analytics": {
+      "30d": 114,
+      "90d": 300,
+      "365d": 1055
+    }
+  },
+  {
+    "name": "abcm2ps",
+    "desc": "ABC music notation software",
+    "analytics": {
+      "30d": 15,
+      "90d": 71,
+      "365d": 136
+    }
+  },
+  {
+    "name": "abcmidi",
+    "desc": "Converts abc music notation files to MIDI files",
+    "analytics": {
+      "30d": 177,
+      "90d": 391,
+      "365d": 1021
+    }
+  },
+  {
+    "name": "abduco",
+    "desc": "Provides session management: i.e. separate programs from terminals",
+    "analytics": {
+      "30d": 8,
+      "90d": 26,
+      "365d": 74
+    }
+  },
+  {
+    "name": "abi-compliance-checker",
+    "desc": "Tool for checking backward API/ABI compatibility of a C/C++ library",
+    "analytics": {
+      "30d": 23,
+      "90d": 54,
+      "365d": 154
+    }
+  },
+  {
+    "name": "abi-dumper",
+    "desc": "Dump ABI of an ELF object containing DWARF debug info",
+    "analytics": {
+      "30d": 16,
+      "90d": 35,
+      "365d": 81
+    }
+  },
+  {
+    "name": "abi3audit",
+    "desc": "Scans Python packages for abi3 violations and inconsistencies",
+    "analytics": {
+      "30d": 110,
+      "90d": 207,
+      "365d": 349
+    }
+  },
+  {
+    "name": "abnfgen",
+    "desc": "Quickly generate random documents that match an ABFN grammar",
+    "analytics": {
+      "30d": 2,
+      "90d": 4,
+      "365d": 64
+    }
+  },
+  {
+    "name": "abook",
+    "desc": "Address book with mutt support",
+    "analytics": {
+      "30d": 39,
+      "90d": 86,
+      "365d": 259
+    }
+  },
+  {
+    "name": "abricate",
+    "desc": "Find antimicrobial resistance and virulence genes in contigs",
+    "analytics": {
+      "30d": 20,
+      "90d": 71,
+      "365d": 364
+    }
+  },
+  {
+    "name": "abseil",
+    "desc": "C++ Common Libraries",
+    "analytics": {
+      "30d": 426,
+      "90d": 1289,
+      "365d": 5198
+    }
+  },
+  {
+    "name": "abuse",
+    "desc": "Dark 2D side-scrolling platform game",
+    "analytics": {
+      "30d": 0,
+      "90d": 4,
+      "365d": 53
+    }
+  },
+  {
+    "name": "abyss",
+    "desc": "Genome sequence assembler for short reads",
+    "analytics": {
+      "30d": 115,
+      "90d": 489,
+      "365d": 1344
+    }
+  },
+  {
+    "name": "access",
+    "desc": "Easiest way to request and grant access without leaving your terminal",
+    "analytics": {
+      "30d": 57,
+      "90d": 103,
+      "365d": 405
+    }
+  },
+  {
+    "name": "ace",
+    "desc": "ADAPTIVE Communication Environment: OO network programming in C++",
+    "analytics": {
+      "30d": 27,
+      "90d": 131,
+      "365d": 402
+    }
+  },
+  {
+    "name": "aces_container",
+    "desc": "Reference implementation of SMPTE ST2065-4",
+    "analytics": {
+      "30d": 2,
+      "90d": 8,
+      "365d": 55
+    }
+  },
+  {
+    "name": "ack",
+    "desc": "Search tool like grep, but optimized for programmers",
+    "analytics": {
+      "30d": 1956,
+      "90d": 6946,
+      "365d": 30660
+    }
+  },
+  {
+    "name": "acl",
+    "desc": "Commands for manipulating POSIX access control lists",
+    "analytics": {
+      "30d": 48,
+      "90d": 64,
+      "365d": 85
+    }
+  },
+  {
+    "name": "acl2",
+    "desc": "Logic and programming language in which you can model computer systems",
+    "analytics": {
+      "30d": 65,
+      "90d": 219,
+      "365d": 633
+    }
+  },
+  {
+    "name": "acme",
+    "desc": "Crossassembler for multiple environments",
+    "analytics": {
+      "30d": 18,
+      "90d": 115,
+      "365d": 532
+    }
+  },
+  {
+    "name": "acpica",
+    "desc": "OS-independent implementation of the ACPI specification",
+    "analytics": {
+      "30d": 17,
+      "90d": 56,
+      "365d": 386
+    }
+  },
+  {
+    "name": "act",
+    "desc": "Run your GitHub Actions locally",
+    "analytics": {
+      "30d": 7633,
+      "90d": 22858,
+      "365d": 73980
+    }
+  },
+  {
+    "name": "action-validator",
+    "desc": "Tool to validate GitHub Action and Workflow YAML files",
+    "analytics": {
+      "30d": 13,
+      "90d": 64,
+      "365d": 128
+    }
+  },
+  {
+    "name": "actionlint",
+    "desc": "Static checker for GitHub Actions workflow files",
+    "analytics": {
+      "30d": 1477,
+      "90d": 4067,
+      "365d": 11385
+    }
+  },
+  {
+    "name": "activemq",
+    "desc": "Apache ActiveMQ: powerful open source messaging server",
+    "analytics": {
+      "30d": 342,
+      "90d": 1248,
+      "365d": 4882
+    }
+  },
+  {
+    "name": "activemq-cpp",
+    "desc": "C++ API for message brokers such as Apache ActiveMQ",
+    "analytics": {
+      "30d": 38,
+      "90d": 63,
+      "365d": 203
+    }
+  },
+  {
+    "name": "ada-url",
+    "desc": "WHATWG-compliant and fast URL parser written in modern C++",
+    "analytics": {
+      "30d": 30,
+      "90d": 55,
+      "365d": 514
+    }
+  },
+  {
+    "name": "adamstark-audiofile",
+    "desc": "C++ Audio File Library by Adam Stark",
+    "analytics": {
+      "30d": 4,
+      "90d": 16,
+      "365d": 79
+    }
+  },
+  {
+    "name": "adb-enhanced",
+    "desc": "Swiss-army knife for Android testing and development",
+    "analytics": {
+      "30d": 254,
+      "90d": 774,
+      "365d": 2088
+    }
+  },
+  {
+    "name": "adios2",
+    "desc": "Next generation of ADIOS developed in the Exascale Computing Program",
+    "analytics": {
+      "30d": 113,
+      "90d": 361,
+      "365d": 1479
+    }
+  },
+  {
+    "name": "admesh",
+    "desc": "Processes triangulated solid meshes",
+    "analytics": {
+      "30d": 3,
+      "90d": 21,
+      "365d": 65
+    }
+  },
+  {
+    "name": "adns",
+    "desc": "C/C++ resolver library and DNS resolver utilities",
+    "analytics": {
+      "30d": 63,
+      "90d": 133,
+      "365d": 481
+    }
+  },
+  {
+    "name": "adplug",
+    "desc": "Free, hardware independent AdLib sound player library",
+    "analytics": {
+      "30d": 0,
+      "90d": 22,
+      "365d": 52
+    }
+  },
+  {
+    "name": "adr-tools",
+    "desc": "CLI tool for working with Architecture Decision Records",
+    "analytics": {
+      "30d": 273,
+      "90d": 735,
+      "365d": 2568
+    }
+  },
+  {
+    "name": "adr-viewer",
+    "desc": "Generate easy-to-read web pages for your Architecture Decision Records",
+    "analytics": {
+      "30d": 56,
+      "90d": 176,
+      "365d": 334
+    }
+  },
+  {
+    "name": "advancecomp",
+    "desc": "Recompression utilities for .PNG, .MNG, .ZIP, and .GZ files",
+    "analytics": {
+      "30d": 52,
+      "90d": 142,
+      "365d": 728
+    }
+  },
+  {
+    "name": "advancescan",
+    "desc": "Rom manager for AdvanceMAME/MESS",
+    "analytics": {
+      "30d": 3,
+      "90d": 11,
+      "365d": 36
+    }
+  },
+  {
+    "name": "adwaita-icon-theme",
+    "desc": "Icons for the GNOME project",
+    "analytics": {
+      "30d": 2044,
+      "90d": 7311,
+      "365d": 28283
+    }
+  },
+  {
+    "name": "aerc",
+    "desc": "Email client that runs in your terminal",
+    "analytics": {
+      "30d": 196,
+      "90d": 315,
+      "365d": 1179
+    }
+  },
+  {
+    "name": "aerleon",
+    "desc": "Generate firewall configs for multiple firewall platforms",
+    "analytics": {
+      "30d": 115,
+      "90d": 234,
+      "365d": 408
+    }
+  },
+  {
+    "name": "aescrypt",
+    "desc": "Program for encryption/decryption",
+    "analytics": {
+      "30d": 22,
+      "90d": 65,
+      "365d": 200
+    }
+  },
+  {
+    "name": "aescrypt-packetizer",
+    "desc": "Encrypt and decrypt using 256-bit AES encryption",
+    "analytics": {
+      "30d": 10,
+      "90d": 19,
+      "365d": 60
+    }
+  },
+  {
+    "name": "aespipe",
+    "desc": "AES encryption or decryption for pipes",
+    "analytics": {
+      "30d": 15,
+      "90d": 69,
+      "365d": 222
+    }
+  },
+  {
+    "name": "afflib",
+    "desc": "Advanced Forensic Format",
+    "analytics": {
+      "30d": 253,
+      "90d": 661,
+      "365d": 2619
+    }
+  },
+  {
+    "name": "afio",
+    "desc": "Creates cpio-format archives",
+    "analytics": {
+      "30d": 3,
+      "90d": 9,
+      "365d": 45
+    }
+  },
+  {
+    "name": "afl-fuzz",
+    "desc": "American fuzzy lop: Security-oriented fuzzer",
+    "analytics": {
+      "30d": 0,
+      "90d": 0,
+      "365d": 59
+    }
+  },
+  {
+    "name": "afsctool",
+    "desc": "Utility for manipulating APFS and ZFS compressed files",
+    "analytics": {
+      "30d": 27,
+      "90d": 72,
+      "365d": 331
+    }
+  },
+  {
+    "name": "aften",
+    "desc": "Audio encoder which generates ATSC A/52 compressed audio streams",
+    "analytics": {
+      "30d": 5,
+      "90d": 29,
+      "365d": 98
+    }
+  },
+  {
+    "name": "aftman",
+    "desc": "Toolchain manager for Roblox, the prodigal sequel to Foreman",
+    "analytics": {
+      "30d": 8,
+      "90d": 45,
+      "365d": 283
+    }
+  },
+  {
+    "name": "afuse",
+    "desc": "Automounting file system implemented in userspace with FUSE",
+    "analytics": {
+      "30d": 1,
+      "90d": 4,
+      "365d": 18
+    }
+  },
+  {
+    "name": "agda",
+    "desc": "Dependently typed functional programming language",
+    "analytics": {
+      "30d": 270,
+      "90d": 926,
+      "365d": 2338
+    }
+  },
+  {
+    "name": "age",
+    "desc": "Simple, modern, secure file encryption",
+    "analytics": {
+      "30d": 5007,
+      "90d": 7510,
+      "365d": 12288
+    }
+  },
+  {
+    "name": "age-plugin-yubikey",
+    "desc": "Plugin for encrypting files with age and PIV tokens such as YubiKeys",
+    "analytics": {
+      "30d": 34,
+      "90d": 124,
+      "365d": 454
+    }
+  },
+  {
+    "name": "agedu",
+    "desc": "Unix utility for tracking down wasted disk space",
+    "analytics": {
+      "30d": 8,
+      "90d": 25,
+      "365d": 97
+    }
+  },
+  {
+    "name": "agg",
+    "desc": "Asciicast to GIF converter",
+    "analytics": {
+      "30d": 68,
+      "90d": 184,
+      "365d": 983
+    }
+  },
+  {
+    "name": "aggregate",
+    "desc": "Optimizes lists of prefixes to reduce list lengths",
+    "analytics": {
+      "30d": 5,
+      "90d": 26,
+      "365d": 64
+    }
+  },
+  {
+    "name": "aha",
+    "desc": "ANSI HTML adapter",
+    "analytics": {
+      "30d": 40,
+      "90d": 105,
+      "365d": 2379
+    }
+  },
+  {
+    "name": "ahcpd",
+    "desc": "Autoconfiguration protocol for IPv6 and IPv6/IPv4 networks",
+    "analytics": {
+      "30d": 4,
+      "90d": 10,
+      "365d": 40
+    }
+  },
+  {
+    "name": "ahoy",
+    "desc": "Creates self documenting CLI programs from commands in YAML files",
+    "analytics": {
+      "30d": 74,
+      "90d": 140,
+      "365d": 549
+    }
+  },
+  {
+    "name": "aichat",
+    "desc": "ChatGPT cli",
+    "analytics": {
+      "30d": 283,
+      "90d": 1375,
+      "365d": 3733
+    }
+  },
+  {
+    "name": "aicommits",
+    "desc": "Writes your git commit messages for you with AI",
+    "analytics": {
+      "30d": 82,
+      "90d": 270,
+      "365d": 908
+    }
+  },
+  {
+    "name": "aida-header",
+    "desc": "Abstract Interfaces for Data Analysis define interfaces for physics analysis",
+    "analytics": {
+      "30d": 0,
+      "90d": 0,
+      "365d": 23
+    }
+  },
+  {
+    "name": "aide",
+    "desc": "File and directory integrity checker",
+    "analytics": {
+      "30d": 59,
+      "90d": 105,
+      "365d": 555
+    }
+  },
+  {
+    "name": "ain",
+    "desc": "HTTP API client for the terminal",
+    "analytics": {
+      "30d": 56,
+      "90d": 101,
+      "365d": 124
+    }
+  },
+  {
+    "name": "aircrack-ng",
+    "desc": "Next-generation aircrack with lots of new features",
+    "analytics": {
+      "30d": 878,
+      "90d": 2684,
+      "365d": 10722
+    }
+  },
+  {
+    "name": "airshare",
+    "desc": "Cross-platform content sharing in a local network",
+    "analytics": {
+      "30d": 129,
+      "90d": 246,
+      "365d": 728
+    }
+  },
+  {
+    "name": "airspy",
+    "desc": "Driver and tools for a software-defined radio",
+    "analytics": {
+      "30d": 55,
+      "90d": 171,
+      "365d": 553
+    }
+  },
+  {
+    "name": "airspyhf",
+    "desc": "Driver and tools for a software-defined radio",
+    "analytics": {
+      "30d": 40,
+      "90d": 138,
+      "365d": 428
+    }
+  },
+  {
+    "name": "aiven-client",
+    "desc": "Official command-line client for Aiven",
+    "analytics": {
+      "30d": 124,
+      "90d": 238,
+      "365d": 618
+    }
+  },
+  {
+    "name": "akamai",
+    "desc": "CLI toolkit for working with Akamai's APIs",
+    "analytics": {
+      "30d": 420,
+      "90d": 1641,
+      "365d": 6002
+    }
+  },
+  {
+    "name": "akku",
+    "desc": "Package manager for Scheme",
+    "analytics": {
+      "30d": 38,
+      "90d": 54,
+      "365d": 135
+    }
+  },
+  {
+    "name": "alac",
+    "desc": "Basic decoder for Apple Lossless Audio Codec files (ALAC)",
+    "analytics": {
+      "30d": 8,
+      "90d": 28,
+      "365d": 78
+    }
+  },
+  {
+    "name": "alass",
+    "desc": "Automatic Language-Agnostic Subtitle Synchronization",
+    "analytics": {
+      "30d": 14,
+      "90d": 40,
+      "365d": 170
+    }
+  },
+  {
+    "name": "alda",
+    "desc": "Music programming language for musicians",
+    "analytics": {
+      "30d": 138,
+      "90d": 338,
+      "365d": 1353
+    }
+  },
+  {
+    "name": "aldo",
+    "desc": "Morse code learning tool released under GPL",
+    "analytics": {
+      "30d": 7,
+      "90d": 15,
+      "365d": 41
+    }
+  },
+  {
+    "name": "alembic",
+    "desc": "Open computer graphics interchange framework",
+    "analytics": {
+      "30d": 67,
+      "90d": 245,
+      "365d": 1233
+    }
+  },
+  {
+    "name": "alerter",
+    "desc": "Send User Alert Notification on macOS from the command-line",
+    "analytics": {
+      "30d": 26,
+      "90d": 75,
+      "365d": 519
+    }
+  },
+  {
+    "name": "alexjs",
+    "desc": "Catch insensitive, inconsiderate writing",
+    "analytics": {
+      "30d": 71,
+      "90d": 204,
+      "365d": 632
+    }
+  },
+  {
+    "name": "algernon",
+    "desc": "Pure Go web server with Lua, Markdown, HTTP/2 and template support",
+    "analytics": {
+      "30d": 78,
+      "90d": 142,
+      "365d": 458
+    }
+  },
+  {
+    "name": "algol68g",
+    "desc": "Algol 68 compiler-interpreter",
+    "analytics": {
+      "30d": 88,
+      "90d": 353,
+      "365d": 2274
+    }
+  },
+  {
+    "name": "ali",
+    "desc": "Generate HTTP load and plot the results in real-time",
+    "analytics": {
+      "30d": 59,
+      "90d": 105,
+      "365d": 134
+    }
+  },
+  {
+    "name": "aliddns",
+    "desc": "Aliyun(Alibaba Cloud) ddns for golang",
+    "analytics": {
+      "30d": 53,
+      "90d": 88,
+      "365d": 338
+    }
+  },
+  {
+    "name": "align",
+    "desc": "Text column alignment filter",
+    "analytics": {
+      "30d": 5,
+      "90d": 17,
+      "365d": 58
+    }
+  },
+  {
+    "name": "aliyun-cli",
+    "desc": "Universal Command-Line Interface for Alibaba Cloud",
+    "analytics": {
+      "30d": 442,
+      "90d": 1416,
+      "365d": 4896
+    }
+  },
+  {
+    "name": "aliyunpan",
+    "desc": "Command-line client tool for Alibaba aDrive disk",
+    "analytics": {
+      "30d": 123,
+      "90d": 218,
+      "365d": 703
+    }
+  },
+  {
+    "name": "all-repos",
+    "desc": "Clone all your repositories and apply sweeping changes",
+    "analytics": {
+      "30d": 97,
+      "90d": 195,
+      "365d": 474
+    }
+  },
+  {
+    "name": "allegro",
+    "desc": "C/C++ multimedia library for cross-platform game development",
+    "analytics": {
+      "30d": 161,
+      "90d": 530,
+      "365d": 1202
+    }
+  },
+  {
+    "name": "allure",
+    "desc": "Flexible lightweight test report tool",
+    "analytics": {
+      "30d": 4462,
+      "90d": 14300,
+      "365d": 32998
+    }
+  },
+  {
+    "name": "allureofthestars",
+    "desc": "Near-future Sci-Fi roguelike and tactical squad combat game",
+    "analytics": {
+      "30d": 96,
+      "90d": 266,
+      "365d": 983
+    }
+  },
+  {
+    "name": "alluxio",
+    "desc": "Open Source Memory Speed Virtual Distributed Storage",
+    "analytics": {
+      "30d": 91,
+      "90d": 223,
+      "365d": 788
+    }
+  },
+  {
+    "name": "alot",
+    "desc": "Text mode MUA using notmuch mail",
+    "analytics": {
+      "30d": 194,
+      "90d": 407,
+      "365d": 1249
+    }
+  },
+  {
+    "name": "alp",
+    "desc": "Access Log Profiler",
+    "analytics": {
+      "30d": 67,
+      "90d": 130,
+      "365d": 789
+    }
+  },
+  {
+    "name": "alpine",
+    "desc": "News and email agent",
+    "analytics": {
+      "30d": 103,
+      "90d": 213,
+      "365d": 657
+    }
+  },
+  {
+    "name": "alpscore",
+    "desc": "Applications and libraries for physics simulations",
+    "analytics": {
+      "30d": 52,
+      "90d": 153,
+      "365d": 648
+    }
+  },
+  {
+    "name": "alsa-lib",
+    "desc": "Provides audio and MIDI functionality to the Linux operating system",
+    "analytics": {
+      "30d": 338,
+      "90d": 511,
+      "365d": 1789
+    }
+  },
+  {
+    "name": "alure",
+    "desc": "Manage common tasks with OpenAL applications",
+    "analytics": {
+      "30d": 10,
+      "90d": 19,
+      "365d": 120
+    }
+  },
+  {
+    "name": "amass",
+    "desc": "In-depth attack surface mapping and asset discovery",
+    "analytics": {
+      "30d": 252,
+      "90d": 637,
+      "365d": 725
+    }
+  },
+  {
+    "name": "amazon-ecs-cli",
+    "desc": "CLI for Amazon ECS to manage clusters and tasks for development",
+    "analytics": {
+      "30d": 146,
+      "90d": 343,
+      "365d": 1247
+    }
+  },
+  {
+    "name": "amber",
+    "desc": "Crystal web framework. Bare metal performance, productivity and happiness",
+    "analytics": {
+      "30d": 108,
+      "90d": 280,
+      "365d": 687
+    }
+  },
+  {
+    "name": "amdatu-bootstrap",
+    "desc": "Bootstrapping OSGi development",
+    "analytics": {
+      "30d": 16,
+      "90d": 36,
+      "365d": 127
+    }
+  },
+  {
+    "name": "amfora",
+    "desc": "Fancy terminal browser for the Gemini protocol",
+    "analytics": {
+      "30d": 79,
+      "90d": 147,
+      "365d": 446
+    }
+  },
+  {
+    "name": "ammonite-repl",
+    "desc": "Ammonite is a cleanroom re-implementation of the Scala REPL",
+    "analytics": {
+      "30d": 206,
+      "90d": 615,
+      "365d": 3072
+    }
+  },
+  {
+    "name": "amp",
+    "desc": "Text editor for your terminal",
+    "analytics": {
+      "30d": 100,
+      "90d": 210,
+      "365d": 493
+    }
+  },
+  {
+    "name": "ampl-mp",
+    "desc": "Open-source library for mathematical programming",
+    "analytics": {
+      "30d": 14,
+      "90d": 26,
+      "365d": 59
+    }
+  },
+  {
+    "name": "amqp-cpp",
+    "desc": "C++ library for communicating with a RabbitMQ message broker",
+    "analytics": {
+      "30d": 25,
+      "90d": 51,
+      "365d": 266
+    }
+  },
+  {
+    "name": "amtterm",
+    "desc": "Serial-over-LAN (sol) client for Intel AMT",
+    "analytics": {
+      "30d": 39,
+      "90d": 114,
+      "365d": 291
+    }
+  },
+  {
+    "name": "analog",
+    "desc": "Logfile analyzer",
+    "analytics": {
+      "30d": 112,
+      "90d": 299,
+      "365d": 675
+    }
+  },
+  {
+    "name": "ancient",
+    "desc": "Decompression routines for ancient formats",
+    "analytics": {
+      "30d": 4,
+      "90d": 9,
+      "365d": 69
+    }
+  },
+  {
+    "name": "angband",
+    "desc": "Dungeon exploration game",
+    "analytics": {
+      "30d": 28,
+      "90d": 79,
+      "365d": 372
+    }
+  },
+  {
+    "name": "angle-grinder",
+    "desc": "Slice and dice log files on the command-line",
+    "analytics": {
+      "30d": 35,
+      "90d": 92,
+      "365d": 628
+    }
+  },
+  {
+    "name": "angular-cli",
+    "desc": "CLI tool for Angular",
+    "analytics": {
+      "30d": 2860,
+      "90d": 8105,
+      "365d": 28968
+    }
+  },
+  {
+    "name": "animdl",
+    "desc": "Anime downloader and streamer",
+    "analytics": {
+      "30d": 90,
+      "90d": 221,
+      "365d": 825
+    }
+  },
+  {
+    "name": "anime-downloader",
+    "desc": "Download your favourite anime",
+    "analytics": {
+      "30d": 24,
+      "90d": 37,
+      "365d": 634
+    }
+  },
+  {
+    "name": "ansible",
+    "desc": "Automate deployment, configuration, and upgrading",
+    "analytics": {
+      "30d": 21942,
+      "90d": 60511,
+      "365d": 279074
+    }
+  },
+  {
+    "name": "ansible-cmdb",
+    "desc": "Generates static HTML overview page from Ansible facts",
+    "analytics": {
+      "30d": 14,
+      "90d": 41,
+      "365d": 146
+    }
+  },
+  {
+    "name": "ansible-language-server",
+    "desc": "Language Server for Ansible Files",
+    "analytics": {
+      "30d": 140,
+      "90d": 366,
+      "365d": 1326
+    }
+  },
+  {
+    "name": "ansible-lint",
+    "desc": "Checks ansible playbooks for practices and behaviour",
+    "analytics": {
+      "30d": 4058,
+      "90d": 10106,
+      "365d": 44828
+    }
+  },
+  {
+    "name": "ansible@7",
+    "desc": "Automate deployment, configuration, and upgrading",
+    "analytics": {
+      "30d": 2,
+      "90d": 368,
+      "365d": 855
+    }
+  },
+  {
+    "name": "ansible@8",
+    "desc": "Automate deployment, configuration, and upgrading",
+    "analytics": {
+      "30d": 478,
+      "90d": 981,
+      "365d": 1022
+    }
+  },
+  {
+    "name": "ansifilter",
+    "desc": "Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode",
+    "analytics": {
+      "30d": 141,
+      "90d": 470,
+      "365d": 2575
+    }
+  },
+  {
+    "name": "ansilove",
+    "desc": "ANSI/ASCII art to PNG converter",
+    "analytics": {
+      "30d": 93,
+      "90d": 280,
+      "365d": 769
+    }
+  },
+  {
+    "name": "ansiweather",
+    "desc": "Weather in your terminal, with ANSI colors and Unicode symbols",
+    "analytics": {
+      "30d": 36,
+      "90d": 121,
+      "365d": 449
+    }
+  },
+  {
+    "name": "ant",
+    "desc": "Java build tool",
+    "analytics": {
+      "30d": 1753,
+      "90d": 5536,
+      "365d": 26281
+    }
+  },
+  {
+    "name": "ant-contrib",
+    "desc": "Collection of tasks for Apache Ant",
+    "analytics": {
+      "30d": 91,
+      "90d": 270,
+      "365d": 957
+    }
+  },
+  {
+    "name": "ant@1.9",
+    "desc": "Java build tool",
+    "analytics": {
+      "30d": 118,
+      "90d": 337,
+      "365d": 1182
+    }
+  },
+  {
+    "name": "antibody",
+    "desc": "Shell plugin manager",
+    "analytics": {
+      "30d": 1,
+      "90d": 1,
+      "365d": 225
+    }
+  },
+  {
+    "name": "antidote",
+    "desc": "Plugin manager for zsh, inspired by antigen and antibody",
+    "analytics": {
+      "30d": 151,
+      "90d": 595,
+      "365d": 2714
+    }
+  },
+  {
+    "name": "antigen",
+    "desc": "Plugin manager for zsh, inspired by oh-my-zsh and vundle",
+    "analytics": {
+      "30d": 227,
+      "90d": 641,
+      "365d": 2625
+    }
+  },
+  {
+    "name": "antiword",
+    "desc": "Utility to read Word (.doc) files",
+    "analytics": {
+      "30d": 99,
+      "90d": 205,
+      "365d": 784
+    }
+  },
+  {
+    "name": "antlr",
+    "desc": "ANother Tool for Language Recognition",
+    "analytics": {
+      "30d": 229,
+      "90d": 663,
+      "365d": 3976
+    }
+  },
+  {
+    "name": "antlr@2",
+    "desc": "ANother Tool for Language Recognition",
+    "analytics": {
+      "30d": 2,
+      "90d": 2,
+      "365d": 13
+    }
+  },
+  {
+    "name": "antlr4-cpp-runtime",
+    "desc": "ANother Tool for Language Recognition C++ Runtime Library",
+    "analytics": {
+      "30d": 35,
+      "90d": 105,
+      "365d": 1018
+    }
+  },
+  {
+    "name": "anttweakbar",
+    "desc": "C/C++ library for adding GUIs to OpenGL apps",
+    "analytics": {
+      "30d": 1,
+      "90d": 7,
+      "365d": 28
+    }
+  },
+  {
+    "name": "anycable-go",
+    "desc": "WebSocket server with action cable protocol",
+    "analytics": {
+      "30d": 115,
+      "90d": 281,
+      "365d": 1119
+    }
+  },
+  {
+    "name": "anyenv",
+    "desc": "All in one for **env",
+    "analytics": {
+      "30d": 293,
+      "90d": 1041,
+      "365d": 5129
+    }
+  },
+  {
+    "name": "aoeui",
+    "desc": "Lightweight text editor optimized for Dvorak and QWERTY keyboards",
+    "analytics": {
+      "30d": 2,
+      "90d": 5,
+      "365d": 20
+    }
+  },
+  {
+    "name": "aom",
+    "desc": "Codec library for encoding and decoding AV1 video streams",
+    "analytics": {
+      "30d": 51189,
+      "90d": 168004,
+      "365d": 407101
+    }
+  },
+  {
+    "name": "apache-archiva",
+    "desc": "Build Artifact Repository Manager",
+    "analytics": {
+      "30d": 86,
+      "90d": 254,
+      "365d": 910
+    }
+  },
+  {
+    "name": "apache-arrow",
+    "desc": "Columnar in-memory analytics layer designed to accelerate big data",
+    "analytics": {
+      "30d": 5877,
+      "90d": 17063,
+      "365d": 56143
+    }
+  },
+  {
+    "name": "apache-arrow-glib",
+    "desc": "GLib bindings for Apache Arrow",
+    "analytics": {
+      "30d": 360,
+      "90d": 1159,
+      "365d": 3729
+    }
+  },
+  {
+    "name": "apache-brooklyn-cli",
+    "desc": "Apache Brooklyn command-line interface",
+    "analytics": {
+      "30d": 68,
+      "90d": 96,
+      "365d": 260
+    }
+  },
+  {
+    "name": "apache-drill",
+    "desc": "Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage",
+    "analytics": {
+      "30d": 93,
+      "90d": 234,
+      "365d": 944
+    }
+  },
+  {
+    "name": "apache-flink",
+    "desc": "Scalable batch and stream data processing",
+    "analytics": {
+      "30d": 318,
+      "90d": 893,
+      "365d": 3179
+    }
+  },
+  {
+    "name": "apache-geode",
+    "desc": "In-memory Data Grid for fast transactional data processing",
+    "analytics": {
+      "30d": 78,
+      "90d": 203,
+      "365d": 738
+    }
+  },
+  {
+    "name": "apache-opennlp",
+    "desc": "Machine learning toolkit for processing natural language text",
+    "analytics": {
+      "30d": 133,
+      "90d": 353,
+      "365d": 1068
+    }
+  },
+  {
+    "name": "apache-pulsar",
+    "desc": "Cloud-native distributed messaging and streaming platform",
+    "analytics": {
+      "30d": 55,
+      "90d": 220,
+      "365d": 589
+    }
+  },
+  {
+    "name": "apache-spark",
+    "desc": "Engine for large-scale data processing",
+    "analytics": {
+      "30d": 1760,
+      "90d": 5178,
+      "365d": 25741
+    }
+  },
+  {
+    "name": "apachetop",
+    "desc": "Top-like display of Apache log",
+    "analytics": {
+      "30d": 19,
+      "90d": 47,
+      "365d": 151
+    }
+  },
+  {
+    "name": "apcupsd",
+    "desc": "Daemon for controlling APC UPSes",
+    "analytics": {
+      "30d": 112,
+      "90d": 333,
+      "365d": 840
+    }
+  },
+  {
+    "name": "apgdiff",
+    "desc": "Another PostgreSQL diff tool",
+    "analytics": {
+      "30d": 83,
+      "90d": 246,
+      "365d": 882
+    }
+  },
+  {
+    "name": "apib",
+    "desc": "HTTP performance-testing tool",
+    "analytics": {
+      "30d": 34,
+      "90d": 60,
+      "365d": 185
+    }
+  },
+  {
+    "name": "apibuilder-cli",
+    "desc": "Command-line interface to generate clients for api builder",
+    "analytics": {
+      "30d": 11,
+      "90d": 36,
+      "365d": 87
+    }
+  },
+  {
+    "name": "apidoc",
+    "desc": "RESTful web API Documentation Generator",
+    "analytics": {
+      "30d": 84,
+      "90d": 237,
+      "365d": 916
+    }
+  },
+  {
+    "name": "apify-cli",
+    "desc": "Apify command-line interface",
+    "analytics": {
+      "30d": 142,
+      "90d": 317,
+      "365d": 698
+    }
+  },
+  {
+    "name": "apkleaks",
+    "desc": "Scanning APK file for URIs, endpoints & secrets",
+    "analytics": {
+      "30d": 158,
+      "90d": 443,
+      "365d": 582
+    }
+  },
+  {
+    "name": "apko",
+    "desc": "Build OCI images from APK packages directly without Dockerfile",
+    "analytics": {
+      "30d": 87,
+      "90d": 187,
+      "365d": 560
+    }
+  },
+  {
+    "name": "apktool",
+    "desc": "Tool for reverse engineering 3rd party, closed, binary Android apps",
+    "analytics": {
+      "30d": 5327,
+      "90d": 17889,
+      "365d": 47499
+    }
+  },
+  {
+    "name": "apm-bash-completion",
+    "desc": "Completion for Atom Package Manager",
+    "analytics": {
+      "30d": 12,
+      "90d": 38,
+      "365d": 148
+    }
+  },
+  {
+    "name": "apng2gif",
+    "desc": "Convert APNG animations into animated GIF format",
+    "analytics": {
+      "30d": 9,
+      "90d": 26,
+      "365d": 69
+    }
+  },
+  {
+    "name": "apngasm",
+    "desc": "Next generation of apngasm, the APNG assembler",
+    "analytics": {
+      "30d": 105,
+      "90d": 309,
+      "365d": 1041
+    }
+  },
+  {
+    "name": "apollo-cli",
+    "desc": "Command-line tool for Apollo GraphQL",
+    "analytics": {
+      "30d": 0,
+      "90d": 2,
+      "365d": 66
+    }
+  },
+  {
+    "name": "apophenia",
+    "desc": "C library for statistical and scientific computing",
+    "analytics": {
+      "30d": 4,
+      "90d": 13,
+      "365d": 87
+    }
+  },
+  {
+    "name": "app-engine-python",
+    "desc": "Google App Engine",
+    "analytics": {
+      "30d": 0,
+      "90d": 0,
+      "365d": 25
+    }
+  },
+  {
+    "name": "apparix",
+    "desc": "File system navigation via bookmarking directories",
+    "analytics": {
+      "30d": 8,
+      "90d": 10,
+      "365d": 33
+    }
+  },
+  {
+    "name": "appium",
+    "desc": "Automation for Apps",
+    "analytics": {
+      "30d": 729,
+      "90d": 2060,
+      "365d": 6220
+    }
+  },
+  {
+    "name": "apprise",
+    "desc": "Send notifications from the command-line to popular notification services",
+    "analytics": {
+      "30d": 171,
+      "90d": 346,
+      "365d": 669
+    }
+  },
+  {
+    "name": "appstream",
+    "desc": "Tools and libraries to work with AppStream metadata",
+    "analytics": {
+      "30d": 57,
+      "90d": 152,
+      "365d": 403
+    }
+  },
+  {
+    "name": "appstream-glib",
+    "desc": "Helper library for reading and writing AppStream metadata",
+    "analytics": {
+      "30d": 63,
+      "90d": 129,
+      "365d": 491
+    }
+  },
+  {
+    "name": "apr",
+    "desc": "Apache Portable Runtime library",
+    "analytics": {
+      "30d": 280,
+      "90d": 847,
+      "365d": 6347
+    }
+  },
+  {
+    "name": "apr-util",
+    "desc": "Companion library to apr, the Apache Portable Runtime library",
+    "analytics": {
+      "30d": 4313,
+      "90d": 14746,
+      "365d": 94902
+    }
+  },
+  {
+    "name": "apt",
+    "desc": "Advanced Package Tool",
+    "analytics": {
+      "30d": 62,
+      "90d": 169,
+      "365d": 429
+    }
+  },
+  {
+    "name": "apt-dater",
+    "desc": "Manage package updates on remote hosts using SSH",
+    "analytics": {
+      "30d": 131,
+      "90d": 365,
+      "365d": 1481
+    }
+  },
+  {
+    "name": "aptly",
+    "desc": "Swiss army knife for Debian repository management",
+    "analytics": {
+      "30d": 64,
+      "90d": 120,
+      "365d": 363
+    }
+  },
+  {
+    "name": "aptos",
+    "desc": "Layer 1 blockchain built to support fair access to decentralized assets for all",
+    "analytics": {
+      "30d": 108,
+      "90d": 457,
+      "365d": 1965
+    }
+  },
+  {
+    "name": "aqbanking",
+    "desc": "Generic online banking interface",
+    "analytics": {
+      "30d": 224,
+      "90d": 491,
+      "365d": 1536
+    }
+  },
+  {
+    "name": "arabica",
+    "desc": "XML toolkit written in C++",
+    "analytics": {
+      "30d": 29,
+      "90d": 52,
+      "365d": 189
+    }
+  },
+  {
+    "name": "arangodb",
+    "desc": "Multi-Model NoSQL Database",
+    "analytics": {
+      "30d": 40,
+      "90d": 92,
+      "365d": 565
+    }
+  },
+  {
+    "name": "aravis",
+    "desc": "Vision library for genicam based cameras",
+    "analytics": {
+      "30d": 362,
+      "90d": 1048,
+      "365d": 3082
+    }
+  },
+  {
+    "name": "arb",
+    "desc": "C library for arbitrary-precision interval arithmetic",
+    "analytics": {
+      "30d": 78,
+      "90d": 183,
+      "365d": 652
+    }
+  },
+  {
+    "name": "arcade-learning-environment",
+    "desc": "Platform for AI research",
+    "analytics": {
+      "30d": 77,
+      "90d": 228,
+      "365d": 821
+    }
+  },
+  {
+    "name": "archey4",
+    "desc": "Simple system information tool written in Python",
+    "analytics": {
+      "30d": 139,
+      "90d": 409,
+      "365d": 1415
+    }
+  },
+  {
+    "name": "archi-steam-farm",
+    "desc": "Application for idling Steam cards from multiple accounts simultaneously",
+    "analytics": {
+      "30d": 10,
+      "90d": 46,
+      "365d": 381
+    }
+  },
+  {
+    "name": "archivemount",
+    "desc": "File system for accessing archives using libarchive",
+    "analytics": {
+      "30d": 6,
+      "90d": 8,
+      "365d": 20
+    }
+  },
+  {
+    "name": "archiver",
+    "desc": "Cross-platform, multi-format archive utility",
+    "analytics": {
+      "30d": 66,
+      "90d": 134,
+      "365d": 468
+    }
+  },
+  {
+    "name": "arduino-cli",
+    "desc": "Arduino command-line interface",
+    "analytics": {
+      "30d": 1634,
+      "90d": 3745,
+      "365d": 11116
+    }
+  },
+  {
+    "name": "ares",
+    "desc": "Automated decoding of encrypted text",
+    "analytics": {
+      "30d": 26,
+      "90d": 72,
+      "365d": 306
+    }
+  },
+  {
+    "name": "argc",
+    "desc": "Easily create and use cli based on bash script",
+    "analytics": {
+      "30d": 41,
+      "90d": 109,
+      "365d": 109
+    }
+  },
+  {
+    "name": "argo",
+    "desc": "Get stuff done with container-native workflows for Kubernetes",
+    "analytics": {
+      "30d": 484,
+      "90d": 2223,
+      "365d": 8792
+    }
+  },
+  {
+    "name": "argocd",
+    "desc": "GitOps Continuous Delivery for Kubernetes",
+    "analytics": {
+      "30d": 12851,
+      "90d": 35215,
+      "365d": 119956
+    }
+  },
+  {
+    "name": "argocd-autopilot",
+    "desc": "Opinionated way of installing Argo CD and managing GitOps repositories",
+    "analytics": {
+      "30d": 96,
+      "90d": 233,
+      "365d": 1281
+    }
+  }
+]
