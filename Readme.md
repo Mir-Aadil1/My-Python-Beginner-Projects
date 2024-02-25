@@ -16,6 +16,9 @@ This repository contains various beginner Python projects.
 
 6. **Grep** : grep with recursive 
 
+7. **JSON** : Explore Json funtionalities 
+    - homebrew  : How to leverage api to gather info about all packages available 
+    - popular packages : Leverage data gathered using homebrew.py to get list of popular packages in last 30, 90 and 365 days 
 ## Usage
 
 Each project can be run individually by executing its respective Python script.
